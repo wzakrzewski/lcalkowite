@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "echo kalk.py && exit 0",
+        "build": "echo index.html && exit 0",
         "test": "echo \"No test specified\" && exit 1",
         "start": "node index.js"
     },
