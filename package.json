@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "echo index.html && exit 0",
+        "start":  "node index.html",
         "test": "echo \"No test specified\" && exit 1",
     },
     "repository": {
